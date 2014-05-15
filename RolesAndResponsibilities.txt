@@ -1,8 +1,10 @@
-o Responsibilities Under general supervision, applies professional concepts to perform moderately complex functions from one or more IT areas of specialization. 
+I. Roles
 
-o Analyzes moderately complex programs or helps formulate logic for new systems. 
+  • Responsibilities Under general supervision, applies professional concepts to perform moderately complex functions from one or more IT areas of specialization. 
 
-o Performs coding and tests/debugs simple programs. 
+  • Analyzes moderately complex programs or helps formulate logic for new systems. 
+
+  • Performs coding and tests/debugs simple programs. 
 
   • Develops conversion and system implementation plans or participates in developing portions of plans. 
 
