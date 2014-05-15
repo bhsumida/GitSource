@@ -1,13 +1,26 @@
-Responsibilities Under general supervision, applies professional concepts to perform moderately complex functions from one or more IT areas of specialization. 
-Analyzes moderately complex programs or helps formulate logic for new systems. 
-Performs coding and tests/debugs simple programs. 
-Develops conversion and system implementation plans or participates in developing portions of plans. 
-Prepares programming documentation. 
-Helps maintain security configurations. 
-Analyzes and supports basic operating systems, database or utilities software. 
-Helps analyze business problems to be solved with automated systems. 
-Analyzes and helps implement LAN and/or WAN system projects. 
-May assist with training users in conversion and implementation of system. 
-Works on voice and data network assignments. Required Qualifications • Has knowledge of professional concepts. 
-• Has basic knowledge of applications programming technologies, tools and protocols. 
-• Has skills necessary to communicate effectively both in writing and verbally. 
+o Responsibilities Under general supervision, applies professional concepts to perform moderately complex functions from one or more IT areas of specialization. 
+
+o Analyzes moderately complex programs or helps formulate logic for new systems. 
+
+o Performs coding and tests/debugs simple programs. 
+
+  • Develops conversion and system implementation plans or participates in developing portions of plans. 
+
+  • Prepares programming documentation. 
+
+  • Helps maintain security configurations. 
+
+  • Analyzes and supports basic operating systems, database or utilities software. 
+
+  • Helps analyze business problems to be solved with automated systems. 
+
+  • Analyzes and helps implement LAN and/or WAN system projects. 
+
+  • May assist with training users in conversion and implementation of system. 
+
+  • Works on voice and data network assignments. 
+
+II. Required Qualifications
+  • Has knowledge of professional concepts. 
+  • Has basic knowledge of applications programming technologies, tools and protocols. 
+  • Has skills necessary to communicate effectively both in writing and verbally. 
